@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    height: 75px;
+}
+
+nav ul{
+    list-style-type: none;
+}
